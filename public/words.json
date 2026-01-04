@@ -1,0 +1,1942 @@
+{
+  "version": 1,
+  "updatedAt": "2024-12-31T00:00:00.000Z",
+  "words": [
+    {
+      "id": "w_001",
+      "word": "cat",
+      "hint": "A small domesticated feline.",
+      "category": "animals",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_002",
+      "word": "dog",
+      "hint": "A domesticated canine often kept as a pet.",
+      "category": "animals",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_003",
+      "word": "sun",
+      "hint": "The star at the center of our solar system.",
+      "category": "space",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_004",
+      "word": "hat",
+      "hint": "A head covering.",
+      "category": "objects",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_005",
+      "word": "pen",
+      "hint": "An instrument used for writing with ink.",
+      "category": "objects",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_006",
+      "word": "map",
+      "hint": "A drawing that shows places and directions.",
+      "category": "general",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_007",
+      "word": "red",
+      "hint": "A color.",
+      "category": "general",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_008",
+      "word": "big",
+      "hint": "Large in size.",
+      "category": "general",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_009",
+      "word": "run",
+      "hint": "To move quickly on foot.",
+      "category": "general",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_010",
+      "word": "bed",
+      "hint": "A piece of furniture used for sleeping.",
+      "category": "objects",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_011",
+      "word": "bug",
+      "hint": "A small insect.",
+      "category": "animals",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_012",
+      "word": "cup",
+      "hint": "A small container used for drinking.",
+      "category": "objects",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_013",
+      "word": "pig",
+      "hint": "A farm animal with a snout.",
+      "category": "animals",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_014",
+      "word": "log",
+      "hint": "A piece of a tree trunk.",
+      "category": "nature",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_015",
+      "word": "box",
+      "hint": "A container with flat sides.",
+      "category": "objects",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_016",
+      "word": "frog",
+      "hint": "A small amphibian that jumps.",
+      "category": "animals",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_017",
+      "word": "jump",
+      "hint": "To push off the ground into the air.",
+      "category": "general",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_018",
+      "word": "play",
+      "hint": "To engage in fun activity.",
+      "category": "general",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_019",
+      "word": "cake",
+      "hint": "A sweet baked dessert.",
+      "category": "food",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_020",
+      "word": "tree",
+      "hint": "A tall plant with a trunk and branches.",
+      "category": "plants",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_021",
+      "word": "stop",
+      "hint": "To cease moving.",
+      "category": "general",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_022",
+      "word": "fish",
+      "hint": "A water-dwelling animal with gills.",
+      "category": "animals",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_023",
+      "word": "book",
+      "hint": "A set of pages bound together for reading.",
+      "category": "objects",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_024",
+      "word": "milk",
+      "hint": "A nutritious drink produced by mammals.",
+      "category": "food",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_025",
+      "word": "hand",
+      "hint": "The part of the arm with fingers.",
+      "category": "general",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_026",
+      "word": "bell",
+      "hint": "A hollow object that rings.",
+      "category": "objects",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_027",
+      "word": "snow",
+      "hint": "Frozen water falling from the sky.",
+      "category": "weather",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_028",
+      "word": "lamp",
+      "hint": "A device that produces light.",
+      "category": "objects",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_029",
+      "word": "road",
+      "hint": "A path for cars and travel.",
+      "category": "travel",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_030",
+      "word": "star",
+      "hint": "A bright object in the night sky.",
+      "category": "space",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_031",
+      "word": "snake",
+      "hint": "A legless reptile.",
+      "category": "animals",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_032",
+      "word": "chair",
+      "hint": "A piece of furniture for sitting.",
+      "category": "objects",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_033",
+      "word": "smile",
+      "hint": "A happy facial expression.",
+      "category": "traits",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_034",
+      "word": "clock",
+      "hint": "A device that tells time.",
+      "category": "objects",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_035",
+      "word": "green",
+      "hint": "A color.",
+      "category": "general",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_036",
+      "word": "train",
+      "hint": "A series of connected rail cars.",
+      "category": "travel",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_037",
+      "word": "brush",
+      "hint": "A tool with bristles for cleaning or hair.",
+      "category": "objects",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_038",
+      "word": "light",
+      "hint": "Something that makes things visible.",
+      "category": "general",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_039",
+      "word": "plant",
+      "hint": "A living organism like a flower or tree.",
+      "category": "plants",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_040",
+      "word": "sound",
+      "hint": "Something you hear.",
+      "category": "general",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_041",
+      "word": "float",
+      "hint": "To stay on the surface of a liquid.",
+      "category": "general",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_042",
+      "word": "clean",
+      "hint": "Free from dirt.",
+      "category": "general",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_043",
+      "word": "stone",
+      "hint": "A small piece of rock.",
+      "category": "nature",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_044",
+      "word": "shout",
+      "hint": "To speak very loudly.",
+      "category": "general",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_045",
+      "word": "dream",
+      "hint": "A story or images in your mind while sleeping.",
+      "category": "general",
+      "difficulty": 1,
+      "active": true
+    },
+    {
+      "id": "w_046",
+      "word": "because",
+      "hint": "For the reason that.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_047",
+      "word": "friend",
+      "hint": "A person you like and trust.",
+      "category": "relationships",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_048",
+      "word": "holiday",
+      "hint": "A special day of celebration.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_049",
+      "word": "surprise",
+      "hint": "An unexpected event or feeling.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_050",
+      "word": "above",
+      "hint": "In a higher position.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_051",
+      "word": "animal",
+      "hint": "A living creature that is not a plant.",
+      "category": "animals",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_052",
+      "word": "basket",
+      "hint": "A container woven from strips.",
+      "category": "objects",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_053",
+      "word": "window",
+      "hint": "An opening in a wall that lets in light.",
+      "category": "objects",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_054",
+      "word": "picture",
+      "hint": "An image or drawing.",
+      "category": "art",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_055",
+      "word": "country",
+      "hint": "A nation or land with its own government.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_056",
+      "word": "family",
+      "hint": "A group of related people.",
+      "category": "relationships",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_057",
+      "word": "weather",
+      "hint": "The condition of the air outside.",
+      "category": "weather",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_058",
+      "word": "forest",
+      "hint": "A large area filled with trees.",
+      "category": "nature",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_059",
+      "word": "teacher",
+      "hint": "A person who helps others learn.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_060",
+      "word": "village",
+      "hint": "A small community or town.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_061",
+      "word": "definitely",
+      "hint": "Without a doubt; certainly.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_062",
+      "word": "separate",
+      "hint": "To keep apart or split.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_063",
+      "word": "favorite",
+      "hint": "Most liked or preferred.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_064",
+      "word": "library",
+      "hint": "A place to borrow books.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_065",
+      "word": "calendar",
+      "hint": "A chart that shows days and months.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_066",
+      "word": "different",
+      "hint": "Not the same.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_067",
+      "word": "interest",
+      "hint": "Curiosity or attention toward something.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_068",
+      "word": "probably",
+      "hint": "Most likely.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_069",
+      "word": "sentence",
+      "hint": "A group of words that expresses a complete thought.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_070",
+      "word": "chocolate",
+      "hint": "A sweet food made from cocoa.",
+      "category": "food",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_071",
+      "word": "address",
+      "hint": "Where someone lives or a place is located.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_072",
+      "word": "exercise",
+      "hint": "Physical activity for health.",
+      "category": "health",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_073",
+      "word": "business",
+      "hint": "An organization that sells goods or services.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_074",
+      "word": "knowledge",
+      "hint": "Information and understanding.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_075",
+      "word": "natural",
+      "hint": "From nature; not made by people.",
+      "category": "nature",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_076",
+      "word": "February",
+      "hint": "The second month of the year.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_077",
+      "word": "argument",
+      "hint": "A reason or set of reasons; sometimes a disagreement.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_078",
+      "word": "temperature",
+      "hint": "How hot or cold something is.",
+      "category": "science",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_079",
+      "word": "government",
+      "hint": "The group that runs a country or state.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_080",
+      "word": "experience",
+      "hint": "Something that happens to you; practice over time.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_081",
+      "word": "environment",
+      "hint": "The world around us; surroundings.",
+      "category": "science",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_082",
+      "word": "independent",
+      "hint": "Able to do things without help.",
+      "category": "traits",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_083",
+      "word": "comfortable",
+      "hint": "Feeling relaxed and at ease.",
+      "category": "traits",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_084",
+      "word": "dictionary",
+      "hint": "A book or resource of word meanings.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_085",
+      "word": "adventure",
+      "hint": "An exciting experience or journey.",
+      "category": "travel",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_086",
+      "word": "competition",
+      "hint": "A contest to see who wins.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_087",
+      "word": "responsibility",
+      "hint": "A duty or something you must take care of.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_088",
+      "word": "population",
+      "hint": "The number of people in a place.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_089",
+      "word": "imagination",
+      "hint": "The ability to create ideas in your mind.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_090",
+      "word": "observation",
+      "hint": "Watching carefully to notice details.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_091",
+      "word": "organization",
+      "hint": "A group arranged for a purpose; also the act of arranging.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_092",
+      "word": "electricity",
+      "hint": "A form of energy that powers devices.",
+      "category": "science",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_093",
+      "word": "unnecessary",
+      "hint": "Not needed.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_094",
+      "word": "embarrass",
+      "hint": "To make someone feel self-conscious or ashamed.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_095",
+      "word": "privilege",
+      "hint": "A special advantage or right.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_096",
+      "word": "committee",
+      "hint": "A group chosen to do a task.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_097",
+      "word": "maintenance",
+      "hint": "The work of keeping something in good condition.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_098",
+      "word": "restaurant",
+      "hint": "A place where meals are served.",
+      "category": "food",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_099",
+      "word": "mischievous",
+      "hint": "Playfully causing trouble.",
+      "category": "traits",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_100",
+      "word": "rhythm",
+      "hint": "A repeated pattern of sound or movement.",
+      "category": "music",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_101",
+      "word": "occurrence",
+      "hint": "An event; something that happens.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_102",
+      "word": "conscience",
+      "hint": "A sense of right and wrong.",
+      "category": "traits",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_103",
+      "word": "guarantee",
+      "hint": "A promise that something will happen or work.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_104",
+      "word": "exaggerate",
+      "hint": "To make something seem bigger or more important than it is.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_105",
+      "word": "available",
+      "hint": "Able to be used or gotten.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_106",
+      "word": "opportunity",
+      "hint": "A good chance to do something.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_107",
+      "word": "pronunciation",
+      "hint": "The way a word is spoken.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_108",
+      "word": "perseverance",
+      "hint": "Continued effort despite difficulties.",
+      "category": "traits",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_109",
+      "word": "acquaintance",
+      "hint": "Someone you know but not well.",
+      "category": "relationships",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_110",
+      "word": "recommend",
+      "hint": "To suggest something as good.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_111",
+      "word": "irrelevant",
+      "hint": "Not connected to the matter at hand.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_112",
+      "word": "persuasive",
+      "hint": "Good at convincing others.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_113",
+      "word": "influence",
+      "hint": "The power to affect someone or something.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_114",
+      "word": "hierarchy",
+      "hint": "A system where people or things are ranked by level.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_115",
+      "word": "sincerely",
+      "hint": "In a genuine and honest way.",
+      "category": "traits",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_116",
+      "word": "immediately",
+      "hint": "At once; without delay.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_117",
+      "word": "humorous",
+      "hint": "Funny; causing laughter.",
+      "category": "traits",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_118",
+      "word": "notorious",
+      "hint": "Famous for something bad.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_119",
+      "word": "prejudice",
+      "hint": "An unfair opinion formed without enough knowledge.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_120",
+      "word": "technique",
+      "hint": "A method of doing something.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_121",
+      "word": "evaluate",
+      "hint": "To judge or determine the value of something.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_122",
+      "word": "controversial",
+      "hint": "Causing disagreement or discussion.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_123",
+      "word": "resilience",
+      "hint": "The ability to recover quickly from difficulties.",
+      "category": "traits",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_124",
+      "word": "coordination",
+      "hint": "Working together smoothly; also bodily control.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_125",
+      "word": "entrepreneur",
+      "hint": "A person who starts and runs a business.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_126",
+      "word": "discipline",
+      "hint": "Self-control; training to improve behavior or skills.",
+      "category": "traits",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_127",
+      "word": "hypothesis",
+      "hint": "A proposed explanation that can be tested.",
+      "category": "science",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_128",
+      "word": "representative",
+      "hint": "A person chosen to speak or act for others.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_129",
+      "word": "simultaneous",
+      "hint": "Happening at the same time.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_130",
+      "word": "transportation",
+      "hint": "Ways of moving people or goods.",
+      "category": "travel",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_131",
+      "word": "perspective",
+      "hint": "A point of view.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_132",
+      "word": "phenomenon",
+      "hint": "A fact or situation observed to exist or happen.",
+      "category": "science",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_133",
+      "word": "integrity",
+      "hint": "Honesty and strong moral principles.",
+      "category": "traits",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_134",
+      "word": "sophisticated",
+      "hint": "Complex, advanced, or refined.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_135",
+      "word": "justification",
+      "hint": "A reason that explains or defends something.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_136",
+      "word": "interpretation",
+      "hint": "An explanation of meaning.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_137",
+      "word": "probability",
+      "hint": "How likely something is to happen.",
+      "category": "math",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_138",
+      "word": "bureaucracy",
+      "hint": "A system of government with many rules and officials.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_139",
+      "word": "narcissistic",
+      "hint": "Excessively self-focused or self-admiring.",
+      "category": "traits",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_140",
+      "word": "quarantine",
+      "hint": "A period of isolation to prevent disease spread.",
+      "category": "science",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_141",
+      "word": "architecture",
+      "hint": "The art or practice of designing buildings.",
+      "category": "art",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_142",
+      "word": "subconscious",
+      "hint": "Part of the mind not fully aware but influencing actions.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_143",
+      "word": "millennium",
+      "hint": "A period of one thousand years.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_144",
+      "word": "accommodate",
+      "hint": "Provide lodging or space for; to fit or adjust.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_145",
+      "word": "misconception",
+      "hint": "A wrong idea or misunderstanding.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_146",
+      "word": "infrastructure",
+      "hint": "Basic systems and structures needed to operate a society.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_147",
+      "word": "differentiation",
+      "hint": "The process of becoming different or specialized.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_148",
+      "word": "psychology",
+      "hint": "The study of the mind and behavior.",
+      "category": "science",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_149",
+      "word": "philosophy",
+      "hint": "The study of knowledge, existence, and values.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_150",
+      "word": "initiative",
+      "hint": "The ability to begin and act independently.",
+      "category": "traits",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_151",
+      "word": "regulation",
+      "hint": "A rule made by an authority.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_152",
+      "word": "equilibrium",
+      "hint": "A state of balance.",
+      "category": "science",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_153",
+      "word": "conscientious",
+      "hint": "Wishing to do what is right; careful and thorough.",
+      "category": "traits",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_154",
+      "word": "camouflage",
+      "hint": "A way of hiding by blending in with surroundings.",
+      "category": "nature",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_155",
+      "word": "catastrophe",
+      "hint": "A sudden, major disaster.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_156",
+      "word": "reconciliation",
+      "hint": "Restoring friendly relations after conflict.",
+      "category": "relationships",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_157",
+      "word": "accountability",
+      "hint": "Being responsible and answerable for actions.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_158",
+      "word": "manipulation",
+      "hint": "Controlling something skillfully or unfairly.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_159",
+      "word": "configuration",
+      "hint": "The arrangement of parts or elements.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_160",
+      "word": "documentation",
+      "hint": "Written information that explains or proves something.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_161",
+      "word": "assimilation",
+      "hint": "The process of taking in and fully understanding or absorbing.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_162",
+      "word": "collaboration",
+      "hint": "Working together to achieve something.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_163",
+      "word": "stabilization",
+      "hint": "The process of becoming steady or stable.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_164",
+      "word": "sustainability",
+      "hint": "The ability to maintain without exhausting resources.",
+      "category": "science",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_165",
+      "word": "onomatopoeia",
+      "hint": "A word that imitates a sound.",
+      "category": "language",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_166",
+      "word": "pharaoh",
+      "hint": "A ruler of ancient Egypt.",
+      "category": "history",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_167",
+      "word": "bourgeois",
+      "hint": "Associated with the middle class.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_168",
+      "word": "paradigm",
+      "hint": "A typical example or model of something.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_169",
+      "word": "hyperbole",
+      "hint": "Exaggerated statements not meant literally.",
+      "category": "language",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_170",
+      "word": "juxtaposition",
+      "hint": "Placing things side by side for contrast.",
+      "category": "language",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_171",
+      "word": "rendezvous",
+      "hint": "A meeting at an agreed time and place.",
+      "category": "travel",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_172",
+      "word": "silhouette",
+      "hint": "Dark outline of someone or something against light.",
+      "category": "art",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_173",
+      "word": "conscientiousness",
+      "hint": "The quality of being careful and responsible.",
+      "category": "traits",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_174",
+      "word": "idiosyncratic",
+      "hint": "Peculiar or unique to an individual.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_175",
+      "word": "quintessential",
+      "hint": "Representing the most perfect example of something.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_176",
+      "word": "magnanimous",
+      "hint": "Generous or forgiving, especially toward a rival.",
+      "category": "traits",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_177",
+      "word": "rhetoric",
+      "hint": "The art of effective speaking or writing.",
+      "category": "language",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_178",
+      "word": "ambivalence",
+      "hint": "Having mixed feelings or contradictory ideas.",
+      "category": "traits",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_179",
+      "word": "benevolent",
+      "hint": "Kind and well-meaning.",
+      "category": "traits",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_180",
+      "word": "mnemonic",
+      "hint": "A memory aid or technique.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_181",
+      "word": "pneumonia",
+      "hint": "A lung infection causing inflammation.",
+      "category": "health",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_182",
+      "word": "cupboard",
+      "hint": "A storage cabinet with shelves.",
+      "category": "objects",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_183",
+      "word": "island",
+      "hint": "Land surrounded by water.",
+      "category": "nature",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_184",
+      "word": "debt",
+      "hint": "Money owed.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_185",
+      "word": "doubt",
+      "hint": "Uncertainty about something.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_186",
+      "word": "subtle",
+      "hint": "Delicate or not obvious.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_187",
+      "word": "thumb",
+      "hint": "A short thick finger on the hand.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_188",
+      "word": "wrestle",
+      "hint": "To fight by grappling.",
+      "category": "sports",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_189",
+      "word": "receipt",
+      "hint": "A written record of purchase.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_190",
+      "word": "solemn",
+      "hint": "Serious and formal.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_191",
+      "word": "castle",
+      "hint": "A large fortified building.",
+      "category": "history",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_192",
+      "word": "knife",
+      "hint": "A tool with a blade for cutting.",
+      "category": "objects",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_193",
+      "word": "synecdoche",
+      "hint": "A figure of speech where a part stands for the whole.",
+      "category": "language",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_194",
+      "word": "bougainvillea",
+      "hint": "A flowering plant with bright paper-like bracts.",
+      "category": "plants",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_195",
+      "word": "anemone",
+      "hint": "A sea creature or flowering plant name; often a hard-to-spell word.",
+      "category": "animals",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_196",
+      "word": "phlegmatic",
+      "hint": "Calm and unemotional in temperament.",
+      "category": "traits",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_197",
+      "word": "chthonic",
+      "hint": "Relating to the underworld.",
+      "category": "mythology",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_198",
+      "word": "sesquipedalian",
+      "hint": "Characterized by long words.",
+      "category": "language",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_199",
+      "word": "xylophone",
+      "hint": "A musical instrument with wooden bars.",
+      "category": "music",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_200",
+      "word": "zephyr",
+      "hint": "A soft gentle breeze.",
+      "category": "weather",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_201",
+      "word": "quixotic",
+      "hint": "Extremely idealistic and unrealistic.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_202",
+      "word": "arrhythmia",
+      "hint": "An irregular heartbeat.",
+      "category": "health",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_203",
+      "word": "cataclysm",
+      "hint": "A large-scale and violent event.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_204",
+      "word": "aqueous",
+      "hint": "Containing water; watery.",
+      "category": "science",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_205",
+      "word": "obsequious",
+      "hint": "Excessively eager to please or obey.",
+      "category": "traits",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_206",
+      "word": "laryngitis",
+      "hint": "Inflammation of the larynx causing a hoarse voice.",
+      "category": "health",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_207",
+      "word": "hors d'oeuvre",
+      "hint": "A small appetizer served before a meal.",
+      "category": "food",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_208",
+      "word": "deja vu",
+      "hint": "A feeling you have experienced something before.",
+      "category": "general",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_209",
+      "word": "fiance",
+      "hint": "A person engaged to be married (male or neutral).",
+      "category": "relationships",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_210",
+      "word": "creme brulee",
+      "hint": "A dessert with a caramelized sugar topping.",
+      "category": "food",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_211",
+      "word": "facade",
+      "hint": "The front of a building; also an outward appearance.",
+      "category": "architecture",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_212",
+      "word": "naive",
+      "hint": "Lacking experience or sophistication.",
+      "category": "traits",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_213",
+      "word": "resume",
+      "hint": "A document listing experience and skills.",
+      "category": "general",
+      "difficulty": 2,
+      "active": true
+    },
+    {
+      "id": "w_214",
+      "word": "coup d'etat",
+      "hint": "A sudden overthrow of a government.",
+      "category": "history",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_215",
+      "word": "genre",
+      "hint": "A category of art, music, or writing.",
+      "category": "art",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_216",
+      "word": "ballet",
+      "hint": "A classical form of dance.",
+      "category": "art",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_217",
+      "word": "limousine",
+      "hint": "A long luxury car.",
+      "category": "travel",
+      "difficulty": 3,
+      "active": true
+    },
+    {
+      "id": "w_218",
+      "word": "parquet",
+      "hint": "A patterned wooden floor.",
+      "category": "materials",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_219",
+      "word": "antithesis",
+      "hint": "A direct opposite.",
+      "category": "language",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_220",
+      "word": "heuristic",
+      "hint": "A problem-solving approach using practical methods.",
+      "category": "science",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_221",
+      "word": "dichotomy",
+      "hint": "A division into two parts.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_222",
+      "word": "epistemology",
+      "hint": "The study of knowledge and belief.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_223",
+      "word": "phenomenology",
+      "hint": "A study of conscious experience.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_224",
+      "word": "existentialism",
+      "hint": "A philosophy emphasizing individual existence and choice.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_225",
+      "word": "transcendental",
+      "hint": "Beyond ordinary experience; spiritual or abstract.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_226",
+      "word": "metaphysical",
+      "hint": "Relating to existence and reality beyond the physical.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_227",
+      "word": "teleological",
+      "hint": "Explaining things by their purpose or goal.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_228",
+      "word": "esoteric",
+      "hint": "Intended for or understood by only a small group.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_229",
+      "word": "hermeneutics",
+      "hint": "The theory and method of interpretation.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_230",
+      "word": "dialectical",
+      "hint": "Relating to logical discussion of ideas and contradictions.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_231",
+      "word": "ontology",
+      "hint": "The study of being and existence.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_232",
+      "word": "axiom",
+      "hint": "A statement accepted as true without proof.",
+      "category": "math",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_233",
+      "word": "antidisestablishmentarianism",
+      "hint": "Opposition to ending the Church of England as a state church.",
+      "category": "history",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_234",
+      "word": "floccinaucinihilipilification",
+      "hint": "The act of describing something as worthless.",
+      "category": "language",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_235",
+      "word": "pneumonoultramicroscopicsilicovolcanoconiosis",
+      "hint": "A long word for a type of lung disease caused by fine silica dust.",
+      "category": "health",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_236",
+      "word": "hippopotomonstrosesquipedaliophobia",
+      "hint": "A fear of long words (ironically).",
+      "category": "health",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_237",
+      "word": "pseudopseudohypoparathyroidism",
+      "hint": "A rare inherited disorder; famous for its length.",
+      "category": "health",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_238",
+      "word": "triskaidekaphobia",
+      "hint": "Fear of the number 13.",
+      "category": "health",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_239",
+      "word": "hexakosioihexekontahexaphobia",
+      "hint": "Fear of the number 666.",
+      "category": "health",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_240",
+      "word": "honorificabilitudinitatibus",
+      "hint": "A long Latin word meaning 'state of being able to achieve honors'.",
+      "category": "language",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_241",
+      "word": "incomprehensibilities",
+      "hint": "Things that are hard or impossible to understand.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    },
+    {
+      "id": "w_242",
+      "word": "supercalifragilisticexpialidocious",
+      "hint": "A made-up word meaning something fantastic; popularized by a movie.",
+      "category": "general",
+      "difficulty": 4,
+      "active": true
+    }
+  ]
+}

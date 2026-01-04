@@ -1,6 +1,8 @@
 ## Spelling Bee for Friends
 
-A client-only TanStack Start app for running a team-based spelling bee. Words seed from `public/words.json`, edits persist in `localStorage`, and you can import/export JSON for backups.
+Vibe coded app for a spelling bee. Feel free to use and manipulate as needed. 
+
+- A client-only TanStack Start app for running a team-based spelling bee. Words seed from `public/words.json`, edits persist in `localStorage`, and you can import/export JSON for backups.
 
 ### Requirements
 - Node >= 22.12
